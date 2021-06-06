@@ -9,6 +9,7 @@ function startTimer() {
   if (stoptime == true) {
         stoptime = false;
         timerCycle();
+        mp3Play("/40.mp3");
     }
 }
 function stopTimer() {

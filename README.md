@@ -1,1 +1,1 @@
- # [hiit timer](https://maximosan.github.io/js-stopwatch-40-20/)
+ # [hiit timer](https://sad-murdock-3ea161.netlify.app/)
